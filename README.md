@@ -1,6 +1,8 @@
 hello_trema
 ===========
 
+[![Join the chat at https://gitter.im/handai-trema/hello_trema-0683879e-571a-4a41-ba6a-c25625de4fcc-yasuhito](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/handai-trema/hello_trema-0683879e-571a-4a41-ba6a-c25625de4fcc-yasuhito?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](http://img.shields.io/travis/trema/hello_trema/develop.svg?style=flat)][travis]
 [![Coverage Status](http://img.shields.io/coveralls/trema/hello_trema/develop.svg?style=flat)][coveralls]
 [![Code Climate](http://img.shields.io/codeclimate/github/trema/hello_trema.svg?style=flat)][codeclimate]
